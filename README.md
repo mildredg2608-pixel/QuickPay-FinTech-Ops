@@ -1,3 +1,4 @@
+
 # QuickPay FinTech Operations Case Study
 
 ## Student Information
